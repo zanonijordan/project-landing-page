@@ -1,9 +1,10 @@
+import { Heading } from '../../components/Heading';
 import * as Styled from './styles';
 
 function Home() {
     return (
     <Styled.Wrapper background="blue">
-        <h1>Hello</h1>
+        <Heading> O texto aqui</Heading>
     </Styled.Wrapper>);
 }
 
