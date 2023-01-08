@@ -4,3 +4,5 @@ export default {
   siteName: 'Jordan Zanoni',
   defaultSlug: 'landing-page',
 };
+
+//http://localhost:1337/api/pages/?slug='
